@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+.p-1{
+    margin-bottom: 4%;
+}
+
+.word-1, .word-2, .word-3, .word-4, .word-5{
+    color: orangered;
+    font-weight: bolder;
+}
+#btn-click{
+    margin-bottom: 3%;
+}
+.for-result{
+    text-align: center;
+}
+#sort-form{
+    margin-bottom: 10%;
+}
+#result{
+    display:  none;
+}
